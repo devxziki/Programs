@@ -14,5 +14,5 @@ int main()
 	mul=a*b;
 	cout << "Multiplication is "<< mul << "\n";
 	div=a/b;
-	cout << "Division is"<< div << "\n";
+	cout << "Division is"<< div;
 }
