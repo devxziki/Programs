@@ -14,3 +14,7 @@ class objectdemo{
 		s.output();
 	}
 }
+/* Output:
+		1
+		abc
+*/

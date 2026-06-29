@@ -16,3 +16,6 @@ class mark{
 		}
 	}
 }
+/* Output:
+		Grade-A
+*/

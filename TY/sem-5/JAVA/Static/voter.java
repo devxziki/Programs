@@ -10,3 +10,6 @@ class voter{
 		}
 	}
 }
+/* Output:
+		Able to vote 
+*/

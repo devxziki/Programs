@@ -14,3 +14,9 @@ class calc{
 		System.out.println("Divition of A and B is: "+c);
 	}
 }
+/* Output:
+		Addition of A and B is: 30
+		Substraction of A and B is: -10
+		Multiplication of A and B is: 200
+		Divition of A and B is: 0
+	*/

@@ -11,3 +11,18 @@ class char1{
 		}
 	}
 }
+/*
+		Output:
+			Capital CHaracters::
+			A
+			B
+			C
+			...
+			Z
+			Small CHaracters::
+			a
+			b
+			c
+			...
+			z
+	*/

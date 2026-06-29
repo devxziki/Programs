@@ -4,4 +4,10 @@ class demo{
 		System.out.println("Joyeb Kothiya");
 		System.out.println("TY");
 	}
-}s
+}
+
+/* Output:
+		hello world
+		Joyeb Kothiya
+		TY
+*/

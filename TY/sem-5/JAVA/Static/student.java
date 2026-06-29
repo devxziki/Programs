@@ -12,3 +12,7 @@ class student{
 		System.out.println("Student Name: " + name);
 	}
 }
+/* Output:
+		Student ID: 1
+		Student Name: abc
+*/

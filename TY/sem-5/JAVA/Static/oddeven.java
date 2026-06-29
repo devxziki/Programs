@@ -10,3 +10,6 @@ class oddeven{
 		}
 	}
 }
+/* Output:
+		Number is odd
+*/

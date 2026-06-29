@@ -19,3 +19,13 @@ class studentinfo{
 	}
 	
 }
+/* Output:
+		Student Details:
+		Student Name: joyeb
+		Student ROllNO: 27
+		Student city: botad
+		Student Date of Birth : 29/01/2006
+		Student city: botad
+		Student Mobile no: 0123456789
+		Student Email id : joyeb@gmail.com
+*/

@@ -34,3 +34,13 @@ class sinfo{
 		s.output();
 	}
 }
+/* Output:
+		Student id is : 124
+		Student roll number is : 27
+		Student Phone number is : 0123456789
+		Student Name is : joyeb
+		Student Address is : paliyad road subham building
+		Student City is : botad
+		Student class is : class-c
+		Student year is : TY-third year
+*/

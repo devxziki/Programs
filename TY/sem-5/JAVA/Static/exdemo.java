@@ -17,3 +17,6 @@ class exdemo{
 		System.out.println(s.getrno());
 	}
 }
+/* Output:
+		101
+*/	
