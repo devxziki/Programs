@@ -1,0 +1,1 @@
+/*program 3:- Write a program to declare an integer array (e.g., marks) and print all its elements using a for loop*/

@@ -1,0 +1,1 @@
+/*Program 2:- Create a program using a switch statement to print the days of the week (e.g., case 1: Monday, case 2: Tuesday).*/
