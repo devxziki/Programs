@@ -1,4 +1,4 @@
-class p2{
+class switch1{
     public static void main(String args[]){
         int s=2;
 
