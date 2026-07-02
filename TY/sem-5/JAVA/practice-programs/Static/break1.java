@@ -9,7 +9,7 @@ class break1{
 		}
     }
 }
-/* outout: 
+/* output: 
 1
 2
 3

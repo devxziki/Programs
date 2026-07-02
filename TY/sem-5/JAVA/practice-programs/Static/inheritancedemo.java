@@ -18,3 +18,7 @@ public class inheritancedemo{
         d.bark();
     }
 }
+/* Output:
+    Animal is eating
+    Dog is barking
+*/
