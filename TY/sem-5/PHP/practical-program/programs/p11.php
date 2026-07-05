@@ -1,0 +1,1 @@
+//11. Write a PHP script to print numbers 1 to 10 using a while loop.

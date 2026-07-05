@@ -1,0 +1,1 @@
+//18. Write a PHP script to find palindrome numbers between 1 and 100.

@@ -1,0 +1,1 @@
+/*1. Write a PHP script to check whether the entered number is odd or even*/

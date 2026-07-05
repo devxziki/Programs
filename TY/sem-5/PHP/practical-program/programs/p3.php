@@ -1,0 +1,1 @@
+//3. Write a PHP script to perform arithmetic operations on two variables.

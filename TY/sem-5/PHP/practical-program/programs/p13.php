@@ -1,0 +1,1 @@
+//13. Write a PHP script to find the factorial of a number.

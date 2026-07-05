@@ -1,0 +1,1 @@
+//9. Write a PHP script to find the greatest number among three numbers.

@@ -1,0 +1,1 @@
+//14. Write a PHP script to reverse a number.

@@ -1,0 +1,1 @@
+//19. Write a PHP script to find Armstrong numbers between 1 and 500.

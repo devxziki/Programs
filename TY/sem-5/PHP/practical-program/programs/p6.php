@@ -1,0 +1,1 @@
+//6. Write a PHP script to print the multiplication table for a given number.

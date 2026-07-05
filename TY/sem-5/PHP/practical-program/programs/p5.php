@@ -1,0 +1,1 @@
+//5. Write a PHP script to check whether the entered year is a leap year or not.

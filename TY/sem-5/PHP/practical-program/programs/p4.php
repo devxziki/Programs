@@ -1,0 +1,1 @@
+//4. Write a PHP script to check whether a given number is greater than 100, less than 100 or equal to 100.

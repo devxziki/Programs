@@ -1,0 +1,1 @@
+//20. Write a PHP script to find prime numbers between 1 and 100.

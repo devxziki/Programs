@@ -1,0 +1,1 @@
+//7. Write a PHP script to find the sum of a given number.

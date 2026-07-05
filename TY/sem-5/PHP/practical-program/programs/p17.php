@@ -1,0 +1,1 @@
+//17. Write a PHP script to check whether a number is prime or not.

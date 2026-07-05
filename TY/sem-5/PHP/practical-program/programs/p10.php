@@ -1,0 +1,1 @@
+//10. Write a PHP script to print the Fibonacci series (1 1 2 3 5 8 13 21...).

@@ -1,0 +1,1 @@
+//16. Write a PHP script to check whether a number is an Armstrong number or not.

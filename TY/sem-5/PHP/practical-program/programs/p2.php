@@ -1,0 +1,1 @@
+/*2. Write a PHP script to check whether the entered number is positive or negative.*/

@@ -1,0 +1,1 @@
+//15. Write a PHP script to check whether a number is a palindrome or not.
