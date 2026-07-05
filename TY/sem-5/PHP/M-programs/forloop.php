@@ -121,18 +121,17 @@
             border-radius: 2rem;
         }
         .output-box .numbers .num-tag {
-            display: inline-flex;
+            display: flex;
             align-items: center;
             justify-content: center;
-            min-width: 2.2rem;
-            height: 2.2rem;
-            padding: 0 0.6rem;
+            width: 2.6rem;
+            height: 2.6rem;
             border-radius: 0.6rem;
             background: rgba(67,233,123,0.12);
             border: 1px solid rgba(67,233,123,0.15);
             color: #43e97b;
             font-weight: 600;
-            font-size: 0.95rem;
+            font-size: 0.85rem;
         }
         .output-box .placeholder {
             color: rgba(255,255,255,0.2);
