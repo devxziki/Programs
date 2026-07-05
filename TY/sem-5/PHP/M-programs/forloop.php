@@ -106,6 +106,19 @@
             display: flex;
             flex-wrap: wrap;
             gap: 0.4rem;
+            max-height: 180px;
+            overflow-y: auto;
+            padding-right: 0.3rem;
+        }
+        .output-box .numbers::-webkit-scrollbar {
+            width: 4px;
+        }
+        .output-box .numbers::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        .output-box .numbers::-webkit-scrollbar-thumb {
+            background: rgba(255,255,255,0.15);
+            border-radius: 2rem;
         }
         .output-box .numbers .num-tag {
             display: inline-flex;
