@@ -9,7 +9,7 @@
 				<input type="submit" name="check" value="Check Prime Number"><br>
 			</form>
 			<?php
-				if (isset($_POST['check'])) {
+				if(isset($_POST['check'])) {
 					$a = $_POST['no1'];
                     $isprime=true;
 

@@ -1,5 +1,4 @@
-<!-- 5. Write a PHP script to check whether the entered year is a leap year or not. --> 
- <!-- 1. Write a PHP script to check whether the entered number is odd or even -->
+<!-- 5. Write a PHP script to check whether the entered year is a leap year or not. -->
 <html>
 	<head>
 	</head>
