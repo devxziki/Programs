@@ -18,7 +18,8 @@ class p1{
         System.out.println("Subtraction: " + (a - b));
         System.out.println("Multiplication: " + (a * b));
         System.out.println("Division: " + (a / b));
-        System.out.println("Modulo: " + (a % b));   
+        System.out.println("Modulo: " + (a % b));  
+        sc.close(); 
     }
 }
 /* Static output:
