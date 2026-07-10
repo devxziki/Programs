@@ -102,6 +102,7 @@
         input[type=number]::-webkit-inner-spin-button,
         input[type=number]::-webkit-outer-spin-button {
             -webkit-appearance: none;
+            appearance: none;
             margin: 0;
         }
         input[type=number] {
@@ -248,7 +249,7 @@
             <div class="result-label">Result</div>
             <div class="result-content">
                 <?php
-                function calculate($a, $b, $op) {
+                function calculate(float|int $a, float|int $b, string $op) {
                     switch ($op) {
                         case 'add': return [$a + $b, 'Addition', 'highlight-add'];
                         case 'sub': return [$a - $b, 'Subtraction', 'highlight-sub'];
