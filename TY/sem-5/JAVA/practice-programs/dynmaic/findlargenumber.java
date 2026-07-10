@@ -25,3 +25,10 @@ class findlargenumber{
         sc.close();
     }
 }
+/*
+    Output:
+    Enter No1: 20
+    Enter No2: 50
+    Enter No3: 6
+    The greatest Number is: 50
+*/

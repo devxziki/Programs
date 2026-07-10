@@ -44,3 +44,21 @@ class studentinfo{
         sc.close();
     }
 }
+/*
+    Output:
+    Enter Student ID No: 10
+    Enter Student Name: joyeb
+    Enter Student Mark : 89
+    Enter Student city : botad
+    Enter Student Email : joyeb@gmail.com
+    Enter Student Date Of Birth : 29-01-2006
+
+    Student Details : 
+
+    Student id is : 10
+    Student Name is : joyeb
+    Student Mark is : 89.0
+    Student City is : botad
+    Student Email id  is : joyeb@gmail.com
+    Student DOB is : 29-01-2006
+*/

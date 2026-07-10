@@ -26,3 +26,13 @@ class studentdemo{
         sc.close();
     }
 }
+/*
+    Output:
+    Enter Student Roll No: 27
+    Enter Student Name: joyeb
+    Enter Student Mark: 99
+    Student Details: 
+    Student Roll no Is : 27
+    Student Name Is : joyeb
+    Student Mark Is : 99.0
+*/

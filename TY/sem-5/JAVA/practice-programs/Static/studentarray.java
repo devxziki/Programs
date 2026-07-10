@@ -1,4 +1,3 @@
-import java.util.*;
 class studentarray{
     public static void main(String args[]){
         int rno[]= {27,31,42};

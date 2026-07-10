@@ -9,7 +9,7 @@ class demo{
         int g=0;
 
         while(g!=n){
-            System.out.println("Enter Youre guess: ");
+            System.out.print("Enter Youre guess: ");
             g=sc.nextInt();
 
             if(g<n){
@@ -25,3 +25,22 @@ class demo{
         sc.close();
     }
 }
+/*
+    Output:
+    Enter Youre guess: 10
+    guess Higher
+    Enter Youre guess: 50
+    guess Higher
+    Enter Youre guess: 80
+    guess Higher
+    Enter Youre guess: 90
+    guess Higher
+    Enter Youre guess: 95
+    guess Lower
+    Enter Youre guess: 93
+    guess Lower
+    Enter Youre guess: 92
+    guess Lower
+    Enter Youre guess: 91
+    guess is right
+*/
