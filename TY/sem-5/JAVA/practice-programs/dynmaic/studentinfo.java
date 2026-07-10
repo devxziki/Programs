@@ -40,5 +40,7 @@ class studentinfo{
         System.out.println("Student City is : "+city);
         System.out.println("Student Email id  is : "+email);
         System.out.println("Student DOB is : "+dob);
+
+        sc.close();
     }
 }

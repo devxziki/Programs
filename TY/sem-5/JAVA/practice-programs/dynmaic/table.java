@@ -10,5 +10,6 @@ class table{
         for(int i=1;i<=no1;i++){
             System.out.println((no1)+"*"+(i)+"="+(no1*i));
         }
+        sc.close();
     }
 }

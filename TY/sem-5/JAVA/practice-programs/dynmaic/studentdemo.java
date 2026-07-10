@@ -21,6 +21,8 @@ class studentdemo{
         System.out.println("Student Details: ");
         System.out.println("Student Roll no Is : "+rno); 
         System.out.println("Student Name Is : "+name); 
-        System.out.println("Student Mark Is : "+mark);      
+        System.out.println("Student Mark Is : "+mark);   
+        
+        sc.close();
     }
 }

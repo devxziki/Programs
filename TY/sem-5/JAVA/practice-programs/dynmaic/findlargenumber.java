@@ -22,5 +22,6 @@ class findlargenumber{
         else{
             System.out.println("The greatest Number is: "+no3);
         }
+        sc.close();
     }
 }

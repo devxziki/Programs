@@ -22,5 +22,6 @@ class demo{
                 System.out.println("guess is right");
             }
         }
+        sc.close();
     }
 }
