@@ -1,12 +1,12 @@
-class Demo { 
-    Demo() { 
+class p9 { 
+    p9() { 
         System.out.println("Default Constructor"); 
     } 
-    Demo(int a) { 
+    p9(int a) { 
         System.out.println("Parameterized Constructor="+a); 
     } 
     public static void main(String args[]) { 
-        Demo d1=new Demo(); 
-        Demo d2=new Demo(100); 
+        p9 d1=new p9(); 
+        p9 d2=new p9(100); 
     } 
 }
