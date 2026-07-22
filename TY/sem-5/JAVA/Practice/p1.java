@@ -20,6 +20,7 @@ class p1{
 		else{
 			System.out.println("Largest Number is "+c);
 		}
+		sc.close(); 
 	}
 }
 /* Output
